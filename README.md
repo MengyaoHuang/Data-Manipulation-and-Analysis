@@ -20,4 +20,6 @@ This part works on data harvesting, processing, aggregation, and analysis in Pyt
 10. [Clustering for handwriting and document](https://github.com/MengyaoHuang/Data-Manipulation-and-Analysis/blob/master/Clustering%20for%20handwriting%20and%20document.ipynb)
 11. [Clustering for music preference and Vector Quantization](https://github.com/MengyaoHuang/Data-Manipulation-and-Analysis/blob/master/Clustering%20for%20music%20preference%20and%20Vector%20Quantization.ipynb)
 12. [Classification](https://github.com/MengyaoHuang/Data-Manipulation-and-Analysis/blob/master/Classification.ipynb)
-13. 
+13. [Dimensionality Reduction Notes](https://github.com/MengyaoHuang/Data-Manipulation-and-Analysis/blob/master/Dimensionality%20Reduction%20Notes.pdf)
+14. [Dimension_Reduction Implementation](https://github.com/MengyaoHuang/Data-Manipulation-and-Analysis/edit/master/README.md)
+15. [Dimension Reduction for gene expression dataset](https://github.com/MengyaoHuang/Data-Manipulation-and-Analysis/blob/master/Dimension%20Reduction%20for%20gene%20expression%20dataset.ipynb)
