@@ -12,4 +12,5 @@ This part works on data harvesting, processing, aggregation, and analysis in Pyt
 2. [Basic Data Manipulation](https://github.com/MengyaoHuang/Data-Manipulation-and-Analysis/blob/master/Basic%20Data%20Manipulation.ipynb)
 3. [Univariate Statistics](https://github.com/MengyaoHuang/Data-Manipulation-and-Analysis/blob/master/Univariate%20Statistics.ipynb)
 4. [pandas operations](https://github.com/MengyaoHuang/Data-Manipulation-and-Analysis/blob/master/pandas%20operations.ipynb)
-5. 
+5. [Visualization, Correlation, and Linear Models1](https://github.com/MengyaoHuang/Data-Manipulation-and-Analysis/blob/master/Visualization%2C%20Correlation%2C%20and%20Linear%20Models1.ipynb)
+6. [Visualization, Correlation, and Linear Models2-case based](https://github.com/MengyaoHuang/Data-Manipulation-and-Analysis/blob/master/Visualization%2C%20Correlation%2C%20and%20Linear%20Models2-case%20based.ipynb)
