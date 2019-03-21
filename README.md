@@ -10,4 +10,6 @@ This part works on data harvesting, processing, aggregation, and analysis in Pyt
 ## Guideline
 1. [Get Started](https://github.com/MengyaoHuang/Data-Manipulation-and-Analysis/blob/master/Getting_Started.ipynb)
 2. [Basic Data Manipulation](https://github.com/MengyaoHuang/Data-Manipulation-and-Analysis/blob/master/Basic%20Data%20Manipulation.ipynb)
-3. 
+3. [Univariate Statistics](https://github.com/MengyaoHuang/Data-Manipulation-and-Analysis/blob/master/Univariate%20Statistics.ipynb)
+4. [pandas operations](https://github.com/MengyaoHuang/Data-Manipulation-and-Analysis/blob/master/pandas%20operations.ipynb)
+5. 
