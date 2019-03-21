@@ -23,3 +23,5 @@ This part works on data harvesting, processing, aggregation, and analysis in Pyt
 13. [Dimensionality Reduction Notes](https://github.com/MengyaoHuang/Data-Manipulation-and-Analysis/blob/master/Dimensionality%20Reduction%20Notes.pdf)
 14. [Dimension_Reduction Implementation](https://github.com/MengyaoHuang/Data-Manipulation-and-Analysis/edit/master/README.md)
 15. [Dimension Reduction for gene expression dataset](https://github.com/MengyaoHuang/Data-Manipulation-and-Analysis/blob/master/Dimension%20Reduction%20for%20gene%20expression%20dataset.ipynb)
+
+Appendix: [Some data ready to use](https://github.com/MengyaoHuang/Data-Manipulation-and-Analysis/tree/master/Some%20data%20ready%20to%20use)
