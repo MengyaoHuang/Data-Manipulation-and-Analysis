@@ -17,3 +17,7 @@ This part works on data harvesting, processing, aggregation, and analysis in Pyt
 7. [Pivoting, contingency tables, crosstabs, mosaic plots and chi-squared](https://github.com/MengyaoHuang/Data-Manipulation-and-Analysis/blob/master/Pivoting%2C%20contingency%20tables%2C%20crosstabs%2C%20mosaic%20plots%20and%20chi-squared.ipynb)
 8. [Natural Language Processing Introduction](https://github.com/MengyaoHuang/Data-Manipulation-and-Analysis/blob/master/Natural%20Language%20Processing%20Introduction.ipynb)
 9. [Natural Language Processing for Project Gutenberg](https://github.com/MengyaoHuang/Data-Manipulation-and-Analysis/blob/master/Natural%20Language%20Processing%20for%20Project%20Gutenberg.ipynb)
+10. [Clustering for handwriting and document](https://github.com/MengyaoHuang/Data-Manipulation-and-Analysis/blob/master/Clustering%20for%20handwriting%20and%20document.ipynb)
+11. [Clustering for music preference and Vector Quantization](https://github.com/MengyaoHuang/Data-Manipulation-and-Analysis/blob/master/Clustering%20for%20music%20preference%20and%20Vector%20Quantization.ipynb)
+12. [Classification](https://github.com/MengyaoHuang/Data-Manipulation-and-Analysis/blob/master/Classification.ipynb)
+13. 
