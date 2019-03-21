@@ -15,3 +15,5 @@ This part works on data harvesting, processing, aggregation, and analysis in Pyt
 5. [Visualization, Correlation, and Linear Models1](https://github.com/MengyaoHuang/Data-Manipulation-and-Analysis/blob/master/Visualization%2C%20Correlation%2C%20and%20Linear%20Models1.ipynb)
 6. [Visualization, Correlation, and Linear Models2-case based](https://github.com/MengyaoHuang/Data-Manipulation-and-Analysis/blob/master/Visualization%2C%20Correlation%2C%20and%20Linear%20Models2-case%20based.ipynb)
 7. [Pivoting, contingency tables, crosstabs, mosaic plots and chi-squared](https://github.com/MengyaoHuang/Data-Manipulation-and-Analysis/blob/master/Pivoting%2C%20contingency%20tables%2C%20crosstabs%2C%20mosaic%20plots%20and%20chi-squared.ipynb)
+8. [Natural Language Processing Introduction](https://github.com/MengyaoHuang/Data-Manipulation-and-Analysis/blob/master/Natural%20Language%20Processing%20Introduction.ipynb)
+9. [Natural Language Processing for Project Gutenberg](https://github.com/MengyaoHuang/Data-Manipulation-and-Analysis/blob/master/Natural%20Language%20Processing%20for%20Project%20Gutenberg.ipynb)
